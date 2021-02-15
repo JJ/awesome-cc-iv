@@ -4,7 +4,7 @@ Recursos de y para los estudiantes de las asignaturas CC e IV de la ETSIIT/UGR, 
 
 ## Hito 0 CC e IV
 
-Cómo usar GitHub para desarrollo y para la asignatura
+Cómo usar GitHub para desarrollo y para la asignatura. [Hito 0 en CC](http://jj.github.io/CC/documentos/proyecto/0.Repositorio)
 
 ## Hito 1 CC e IV
 
